@@ -8,7 +8,7 @@ Algoritmo CalcularAreaDeUnTriangulo
         Escribir "ingrese base:";
 	Leer base;
 	Escribir "ingrese altura:";
-	Leer altura
+	Leer altura;
         #asigno la multiplicacion y division entre 2 a el resultado
 	resultado<-base*altura/2;
         #muestro el resultado
