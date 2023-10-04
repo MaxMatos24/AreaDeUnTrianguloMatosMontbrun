@@ -1,6 +1,6 @@
 #Este algoritmo calcula el area de un triangulo
 Algoritmo CalcularAreaDeUnTriangulo
-        #Quiero multiplicar base*altura
+        #Quiero multiplicar base por altura
 	Definir base, altura Como Entero;
         #Aqui guardo el resultado
 	Definir resultado Como Real;
